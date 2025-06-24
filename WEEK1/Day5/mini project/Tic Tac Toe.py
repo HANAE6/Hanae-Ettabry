@@ -71,3 +71,6 @@ for row in range(3):
         buttons[row][col].grid(row=row, column=col)
 
 window.mainloop()
+
+
+
